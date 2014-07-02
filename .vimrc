@@ -5,3 +5,7 @@ set autoindent				"自动缩进
 set cindent					"自动缩进
 
 set tabstop=4		
+set ruler
+
+let &termencoding=&encoding
+set fileencodings=utf-8,gbk
