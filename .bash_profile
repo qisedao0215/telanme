@@ -29,3 +29,5 @@ export THEOS_MAKE_PATH=/opt/theos/makefiles
 export iOSOpenDevPath=/opt/iOSOpenDev
 export iOSOpenDevDevice=
 export PATH=/opt/iOSOpenDev/bin:$PATH
+
+export PATH="/usr/local/mysql/bin:$PATH"
